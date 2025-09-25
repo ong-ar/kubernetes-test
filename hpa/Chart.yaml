@@ -1,0 +1,6 @@
+apiVersion: v2
+name: nginx-hpa
+description: Helm chart for Nginx with HPA test
+type: application
+version: 0.1.0
+appVersion: "1.27"
